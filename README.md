@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderpjr&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderpjr&show_icons=true&theme=dark)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=naderpjr&theme=radical)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=naderpjr&theme=dark)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
