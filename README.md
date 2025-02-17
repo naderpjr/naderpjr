@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=naderpjr&color=blue)
+
 <h2 align="left">Hi 👋! My name is Nader</h2>
 
 ###
